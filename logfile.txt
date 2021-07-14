@@ -1,0 +1,512 @@
+time: Sat Jun  5 16:16:35 2021
+| G starts with default Token: -1
+Sat Jun  5 16:16:37 2021
+ First Tok
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: -1
+ Updated Token is -0.968141
+
+
+time: Sat Jun  5 16:16:37 2021
+ New action from S: 1
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: -0.968141
+ Updated Token is -0.934328
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: -0.934328
+ Updated Token is -0.898482
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: -0.898482
+ Updated Token is -0.860415
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: -0.860415
+ Updated Token is -0.820299
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: -0.820299
+ Updated Token is -0.777990
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: -0.777990
+ Updated Token is -0.733542
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: -0.733542
+ Updated Token is -0.686990
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: -0.686990
+ Updated Token is -0.638495
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: -0.638495
+ Updated Token is -0.587975
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: -0.587975
+ Updated Token is -0.535245
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: -0.535245
+ Updated Token is -0.480611
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: -0.480611
+ Updated Token is -0.424152
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: -0.424152
+ Updated Token is -0.366114
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: -0.366114
+ Updated Token is -0.306725
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: -0.306725
+ Updated Token is -0.245621
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: -0.245621
+ Updated Token is -0.183923
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: -0.183923
+ Updated Token is -0.121289
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: -0.121289
+ Updated Token is -0.058121
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: -0.058121
+ Updated Token is 0.006054
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: 0.006054
+ Updated Token is 0.069582
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: 0.069582
+ Updated Token is 0.133139
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: 0.133139
+ Updated Token is 0.196174
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: 0.196174
+ Updated Token is 0.258660
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: 0.258660
+ Updated Token is 0.320179
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: 0.320179
+ Updated Token is 0.380518
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: 0.380518
+ Updated Token is 0.439821
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: 0.439821
+ Updated Token is 0.497433
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: 0.497433
+ Updated Token is 0.553389
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: 0.553389
+ Updated Token is 0.607148
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: 0.607148
+ Updated Token is 0.658871
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: 0.658871
+ Updated Token is 0.708832
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: 0.708832
+ Updated Token is 0.756232
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: 0.756232
+ Updated Token is 0.801690
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: 0.801690
+ Updated Token is 0.845081
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: 0.845081
+ Updated Token is 0.885792
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: 0.885792
+ Updated Token is 0.924512
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: 0.924512
+ Updated Token is 0.961312
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: 0.961312
+ Updated Token is 0.995480
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: 0.995480
+ Updated Token is 1.027636
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: 1.027636
+ Updated Token is -0.968119
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: -0.968119
+ Updated Token is -0.934077
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: -0.934077
+ Updated Token is -0.898131
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: -0.898131
+ Updated Token is -0.860134
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: -0.860134
+ Updated Token is -0.819895
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: -0.819895
+ Updated Token is -0.777414
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: -0.777414
+ Updated Token is -0.732881
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: -0.732881
+ Updated Token is -0.686293
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: -0.686293
+ Updated Token is -0.637744
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: -0.637744
+ Updated Token is -0.586884
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: -0.586884
+ Updated Token is -0.534129
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: -0.534129
+ Updated Token is -0.479732
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: -0.479732
+ Updated Token is -0.423180
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: -0.423180
+ Updated Token is -0.365351
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: -0.365351
+ Updated Token is -0.305851
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: -0.305851
+ Updated Token is -0.245137
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: -0.245137
+ Updated Token is -0.183456
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: -0.183456
+ Updated Token is -0.120953
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: -0.120953
+ Updated Token is -0.057857
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: -0.057857
+ Updated Token is 0.005698
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: 0.005698
+ Updated Token is 0.069421
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: 0.069421
+ Updated Token is 0.132973
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: 0.132973
+ Updated Token is 0.195922
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: 0.195922
+ Updated Token is 0.258583
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: 0.258583
+ Updated Token is 0.319891
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: 0.319891
+ Updated Token is 0.380080
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: 0.380080
+ Updated Token is 0.439015
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: 0.439015
+ Updated Token is 0.496740
+
+
+time: Sat Jun  5 16:16:37 2021
+ G sent the Token: 0.496740
+ Updated Token is 0.552822
+
+
+time: Sat Jun  5 16:16:38 2021
+ G sent the Token: 0.552822
+ Updated Token is 0.606899
+
+
+time: Sat Jun  5 16:16:38 2021
+ G sent the Token: 0.606899
+ Updated Token is 0.658647
+
+
+time: Sat Jun  5 16:16:38 2021
+ G sent the Token: 0.658647
+ Updated Token is 0.708283
+
+
+time: Sat Jun  5 16:16:38 2021
+ G sent the Token: 0.708283
+ Updated Token is 0.756225
+
+
+time: Sat Jun  5 16:16:38 2021
+ G sent the Token: 0.756225
+ Updated Token is 0.801773
+
+
+time: Sat Jun  5 16:16:38 2021
+ G sent the Token: 0.801773
+ Updated Token is 0.845032
+
+
+time: Sat Jun  5 16:16:38 2021
+ G sent the Token: 0.845032
+ Updated Token is 0.885802
+
+
+time: Sat Jun  5 16:16:38 2021
+ G sent the Token: 0.885802
+ Updated Token is 0.924579
+
+
+time: Sat Jun  5 16:16:38 2021
+ G sent the Token: 0.924579
+ Updated Token is 0.960976
+
+
+time: Sat Jun  5 16:16:38 2021
+ G sent the Token: 0.960976
+ Updated Token is 0.995310
+
+
+time: Sat Jun  5 16:16:38 2021
+ G sent the Token: 0.995310
+ Updated Token is 1.027445
+
+
+time: Sat Jun  5 16:16:38 2021
+ G sent the Token: 1.027445
+ Updated Token is -0.968044
+
+
+time: Sat Jun  5 16:16:38 2021
+ G sent the Token: -0.968044
+ Updated Token is -0.934285
+
+
+time: Sat Jun  5 16:16:38 2021
+ G sent the Token: -0.934285
+ Updated Token is -0.898104
+
+
+time: Sat Jun  5 16:16:38 2021
+ G sent the Token: -0.898104
+ Updated Token is -0.859978
+
+
+time: Sat Jun  5 16:16:38 2021
+ G sent the Token: -0.859978
+ Updated Token is -0.819953
+
+
+time: Sat Jun  5 16:16:38 2021
+ G sent the Token: -0.819953
+ Updated Token is -0.777534
+
+
+time: Sat Jun  5 16:16:38 2021
+ G sent the Token: -0.777534
+ Updated Token is -0.733314
+
+
+time: Sat Jun  5 16:16:38 2021
+ G sent the Token: -0.733314
+ Updated Token is -0.686489
+
+
+time: Sat Jun  5 16:16:38 2021
+ G sent the Token: -0.686489
+ Updated Token is -0.637665
+
+
+time: Sat Jun  5 16:16:38 2021
+ G sent the Token: -0.637665
+ Updated Token is -0.587102
+
+
+time: Sat Jun  5 16:16:38 2021
+ G sent the Token: -0.587102
+ Updated Token is -0.534459
+
+
+time: Sat Jun  5 16:16:38 2021
+ G sent the Token: -0.534459
+ Updated Token is -0.479874
+
+
+time: Sat Jun  5 16:16:38 2021
+ G sent the Token: -0.479874
+ Updated Token is -0.423632
+
+
+time: Sat Jun  5 16:16:38 2021
+ G sent the Token: -0.423632
+ Updated Token is -0.365769
+
+
+time: Sat Jun  5 16:16:38 2021
+ G sent the Token: -0.365769
+ Updated Token is -0.306413
+
+
+time: Sat Jun  5 16:16:38 2021
+ G sent the Token: -0.306413
+ Updated Token is -0.245573
+
+
+time: Sat Jun  5 16:16:38 2021
+ G sent the Token: -0.245573
+ Updated Token is -0.183764
+
+
+time: Sat Jun  5 16:16:38 2021
+ G sent the Token: -0.183764
+ Updated Token is -0.120696
+
+
+time: Sat Jun  5 16:16:38 2021
+ G sent the Token: -0.120696
+ Updated Token is -0.057268
+
+
+time: Sat Jun  5 16:16:38 2021
+ G sent the Token: -0.057268
+ Updated Token is 0.006308
+
+
+time: Sat Jun  5 16:16:38 2021
+ G sent the Token: 0.006308
+ Updated Token is 0.070050
+
